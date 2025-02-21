@@ -12,3 +12,4 @@ Com o vscode aberto, aperte CRTL+SHIFT+X e pesquise por live server, e instale o
 O link do git pages está neste repositório pronto para ser visto, sem precisar usar nenhum comando para ver, apenas clicando no link
 
 # LINK:
+https://matheus-sneves.github.io/web-aula03-ui-ux/
